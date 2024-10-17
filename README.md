@@ -3,6 +3,7 @@
 ### GitHub加速
 国内访问地址一
 ```
+https://github.moeyy.xyz/https://github.com/t70625/TVBoxLink/blob/main/tvbox.json
 主接口：
 https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json
 
