@@ -1,9 +1,15 @@
 ### 近期因为一些原因，接口没有及时更新。给大家带来的不便表示歉意，现接口已全面更新，后续的问题请留言告诉我，感谢大家的支持！！！
 
 ### GitHub加速
+
+自己修改之后
+```
+https://ghproxy.1888866.xyz/github.com/t70625/TVBoxLink/blob/main/tvbox.json
+
+```
 国内访问地址一
 ```
-https://github.moeyy.xyz/https://github.com/t70625/TVBoxLink/blob/main/tvbox.json
+
 主接口：
 https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json
 
